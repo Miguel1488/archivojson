@@ -1,11 +1,8 @@
 [
     {
-        "apply":"QTO"
+        "autorit": "true"
     },
     {
-        "autorit":"true"
-    },
-    {
-"security":"MARIA"
+        "security": "MARIA"
     }
 ]
