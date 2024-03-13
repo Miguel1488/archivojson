@@ -1,8 +1,7 @@
 [
     {
-        "autorit": "true"
-    },
-    {
+        "autorit": "true",
         "security": "MARIA"
     }
+ 
 ]
