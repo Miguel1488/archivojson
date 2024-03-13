@@ -1,7 +1,17 @@
 [
     {
-        "autorit": "true",
-        "security": "MARIA"
+        "surnames": "",
+        "givennames": "MARIA",
+        "check": "true",
+        "checkuno": "true",
+        "checkdos": "true",
+        "sex": "M",
+        "marital status": "S",
+        "day": 30,
+        "month": "AUG",
+        "year": "1958",
+        "city": "GUAYAQUIL",
+        "state province": "GUAYAS",
+        "country": "ECUA"
     }
- 
 ]
