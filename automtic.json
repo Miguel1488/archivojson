@@ -6,12 +6,12 @@
         "checkuno": "true",
         "checkdos": "true",
         "sex": "M",
-        "marital status": "S",
+        "marital": "S",
         "day": 30,
         "month": "AUG",
         "year": "1958",
         "city": "GUAYAQUIL",
-        "state province": "GUAYAS",
+        "stateprovince": "GUAYAS",
         "country": "ECUA"
     }
 ]
